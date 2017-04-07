@@ -1,0 +1,17 @@
+{
+	"title"		:	"Spacebuild extensions - vehicle models",
+	"type"		:	"model",
+	"tags"		:	[ "build", "fun" ],
+	"description":	"Spacebuild extensions - vehicle models and materials",
+	"ignore"	:
+	[
+		"*.txt",
+		".git*",
+		"*.iml",
+		"*.ipr",
+		"LICENSE",
+		"NOTICE",
+		"*.md",
+		"*.jpg"
+	]
+}
